@@ -51,3 +51,54 @@ This project demonstrates the transformation of a legacy ASP.NET MVC 5 applicati
 ---
 
 ## 📁 Project Structure
+
+/LegacyApp /Controllers /Models /Views /Scripts /Content
+
+/ModernApp /AuthService /OrderService /ReportingService
+
+
+---
+
+## 📊 Reporting Features
+
+- Tasks by completion status
+- Tasks by assigned user
+- Task counts and trends
+
+---
+
+## 🧪 How to Run (Legacy Version)
+
+1. Clone the repo
+2. Open in Visual Studio
+3. Restore NuGet packages
+4. Update connection string in `Web.config`
+5. Run the app
+
+---
+
+## 📦 Future Enhancements
+
+- Add unit and integration tests
+- Add JWT-based authentication
+- Add frontend SPA (React or Vue)
+- Deploy microservices with Docker
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots of legacy and modern UI here_
+
+---
+
+## 📚 License
+
+MIT License
+
+---
+
+## 🙋‍♀️ Author
+
+**April Northcutt**  
+[LinkedIn](#) • Portfolio • Email
