@@ -1,45 +1,53 @@
-🗂️ Project Structure (Legacy Monolith)
-/Controllers
-    AccountController.cs
-    TaskController.cs
-    ReportController.cs
+# 🗂️ Task Management System (Legacy to Modern MVC Project)
 
-/Models
-    User.cs
-    TaskItem.cs
+## 📌 Overview
 
-/Views
-    /Account
-    /Task
-    /Report
+This project demonstrates the transformation of a legacy ASP.NET MVC 5 application into a modern ASP.NET Core MVC architecture using microservices. It serves as a portfolio piece to showcase skills in software modernization, API development, and microservice architecture.
 
-/App_Start
-    RouteConfig.cs
+---
 
-/Content
-    Bootstrap, CSS
+## 🏗️ Legacy App Features (ASP.NET MVC 5)
 
-/Scripts
-    jQuery, AJAX
+- User registration and login
+- Role-based access (Admin/User)
+- Task creation, editing, deletion
+- Assign tasks to users
+- Basic reporting (tasks by user/status)
+- Razor views with Bootstrap styling
+- Entity Framework 6 for data access
 
-    
-🛠️ Tech Stack
-ASP.NET MVC 5
+---
 
-Entity Framework 6
+## 🚀 Modernization Goals
 
-SQL Server LocalDB
+- Upgrade to ASP.NET Core MVC (.NET 8)
+- Implement microservices:
+  - `AuthService`: Authentication and user management
+  - `OrderService`: Task management and assignment
+  - `ReportingService`: Task analytics and reporting
+- Use Entity Framework Core
+- Add RESTful APIs
+- Optional: Docker support and cloud deployment
+---
 
-Razor Views
+## 🧱 Tech Stack
 
-Bootstrap for UI
+### Legacy Version
+- ASP.NET MVC 5
+- Entity Framework 6
+- SQL Server LocalDB
+- Razor Views
+- Bootstrap
 
-Web API 2 (optional) for AJAX or future API calls
+### Modern Version
+- ASP.NET Core MVC (.NET 8)
+- Entity Framework Core
+- RESTful APIs
+- Microservices architecture
+- Swagger (API documentation)
+- Docker (optional)
+- Azure or AWS (optional)
 
+---
 
-🔄 Future Microservice Mapping
-
-Legacy           Module	Microservice	  Notes
-AccountController	AuthService	          Move to ASP.NET Core Identity\n
-TaskController	  OrderService	        Tasks = Orders
-ReportController	ReportingService	    Use APIs to aggregate task data
+## 📁 Project Structure
