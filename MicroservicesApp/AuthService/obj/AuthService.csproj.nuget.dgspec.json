@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\AuthService.csproj": {}
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\AuthService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\AuthService.csproj": {
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\AuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\AuthService.csproj",
+        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\AuthService.csproj",
         "projectName": "AuthService",
-        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\AuthService.csproj",
+        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\AuthService.csproj",
         "packagesPath": "C:\\Users\\april\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\obj\\",
+        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

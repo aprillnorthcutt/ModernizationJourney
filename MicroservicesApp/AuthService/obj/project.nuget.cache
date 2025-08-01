@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7j+28n5N+Wc=",
+  "dgSpecHash": "K1b24NAMLAw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\AuthService\\AuthService.csproj",
+  "projectFilePath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\april\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\april\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

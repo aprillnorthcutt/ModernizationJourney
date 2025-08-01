@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernMvcApp\\ModernMvcApp.csproj": {}
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\ModernMvcApp\\ModernMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernMvcApp\\ModernMvcApp.csproj": {
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\ModernMvcApp\\ModernMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernMvcApp\\ModernMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\ModernMvcApp\\ModernMvcApp.csproj",
         "projectName": "ModernMvcApp",
-        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernMvcApp\\ModernMvcApp.csproj",
+        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\ModernMvcApp\\ModernMvcApp.csproj",
         "packagesPath": "C:\\Users\\april\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernMvcApp\\obj\\",
+        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\ModernMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

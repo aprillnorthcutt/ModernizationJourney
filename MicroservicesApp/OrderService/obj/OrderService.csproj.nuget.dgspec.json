@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\OrderService\\OrderService.csproj": {}
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\OrderService\\OrderService.csproj": {
+    "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\april\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\MicroservicesApp\\OrderService\\obj\\",
+        "outputPath": "C:\\Users\\april\\source\\repos\\PortfolioProjects\\ModernizationJourney\\MicroservicesApp\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
